@@ -1,0 +1,52 @@
+
+/* Reset */
+* {
+    font-family: 'Segoe UI', sans-serif;
+    box-sizing:border-box; 
+    outline:none;
+    margin:0;
+    padding:0;
+  }
+
+/*  Small device */
+@media screen and (max-width:767.98px) {
+    main {
+        margin-bottom: 20px;
+    }
+    .title {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        margin-top: 35px;
+        margin-bottom: 28px;
+        color: #000;
+        z-index: 10;
+    }
+    h1 {
+        font-size: 36px;
+        font-weight: 800;
+    }
+    h2 {
+        font-size: 22px;
+        font-weight: 600;
+    }
+    .section {
+        position: relative;
+        left: 50%;
+        transform: translate(-50%);
+        width: 300px;
+        margin-bottom: 10px;
+
+    }
+    .section>hr {
+        margin-top: 10px;
+    }
+    .section__title {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+}
