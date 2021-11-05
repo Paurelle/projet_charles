@@ -7,6 +7,7 @@
         <link rel="stylesheet" href="css/header.css">
         <link rel="stylesheet" href="css/index.css">
         <link rel="stylesheet" href="css/footer.css">
+        <link rel="icon" href="img/favicon.ico"/>
         <title>Accueil</title>
     </head>
     <body>

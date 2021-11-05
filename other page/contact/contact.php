@@ -7,6 +7,7 @@
         <link rel="stylesheet" href="../../css/header.css">
         <link rel="stylesheet" href="css/contact.css">
         <link rel="stylesheet" href="../../css/footer.css">
+        <link rel="icon" href="../../img/favicon.ico"/>
         <title>Contact</title>
     </head>
     <body>

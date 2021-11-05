@@ -7,6 +7,7 @@
         <link rel="stylesheet" href="../../css/header.css">
         <link rel="stylesheet" href="css/galerie.css">
         <link rel="stylesheet" href="../../css/footer.css">
+        <link rel="icon" href="../../img/favicon.ico"/>
         <title>Galerie</title>
     </head>
     <body>

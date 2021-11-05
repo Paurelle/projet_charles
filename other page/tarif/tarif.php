@@ -7,6 +7,7 @@
         <link rel="stylesheet" href="../../css/header.css">
         <link rel="stylesheet" href="css/tarif.css">
         <link rel="stylesheet" href="../../css/footer.css">
+        <link rel="icon" href="../../img/favicon.ico"/>
         <title>Tarifs et prestations</title>
     </head>
     <body>
