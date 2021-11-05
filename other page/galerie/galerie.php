@@ -16,10 +16,10 @@
                     <img src="../../img/logo.PNG" alt="">
                 </div>    
                 <ul class="navbar__links">
-                    <li class="navbar__link first"><a href="../../index.html">Accueil</a></li>
-                    <li class="navbar__link second"><a href="galerie.html">Galerie</a></li>
-                    <li class="navbar__link third"><a href="../tarif/tarif.html">Tarifs et prestations</a></li>
-                    <li class="navbar__link fourth"><a href="../contact/contact.html">Me contacter</a></li>
+                    <li class="navbar__link first"><a href="../../index.php">Accueil</a></li>
+                    <li class="navbar__link second"><a href="galerie.php">Galerie</a></li>
+                    <li class="navbar__link third"><a href="../tarif/tarif.php">Tarifs et prestations</a></li>
+                    <li class="navbar__link fourth"><a href="../contact/contact.php">Me contacter</a></li>
                 </ul>   
                 <button class="burger">
                     <span class="bar"></span>  
@@ -73,10 +73,10 @@
             <div class="footer color-footer">
                 
                 <ul class="footer__links">
-                    <li class="footer__link"><a href="../../index.html">Accueil</a></li>
-                    <li class="footer__link"><a href="galerie.html">Galerie</a></li>
-                    <li class="footer__link"><a href="../tarif/tarif.html">Tarifs et prestations</a></li>
-                    <li class="footer__link"><a href="../contact/contact.html">Me contacter</a></li>
+                    <li class="footer__link"><a href="../../index.php">Accueil</a></li>
+                    <li class="footer__link"><a href="galerie.php">Galerie</a></li>
+                    <li class="footer__link"><a href="../tarif/tarif.php">Tarifs et prestations</a></li>
+                    <li class="footer__link"><a href="../contact/contact.php">Me contacter</a></li>
                 </ul>
                 <div class="footer__socials">
                     <p>Me suivre</p>
