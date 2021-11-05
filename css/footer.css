@@ -24,41 +24,72 @@
     background:var(--footer-bg-color);
     color:var(--footer-color);
   }
-  .footer__links { 
+  
+  /*  Small device */
+  @media screen and (max-width:879.98px) {
+    .footer__links { 
     display:flex;  
     flex-direction: column;
     position: relative;
     left: 46px;
-  }
-  .footer__link { 
-    padding:0 10px;
-    list-style:none;
-  }
-  .footer__link > a { 
-    color:var(--footer-color);
-    text-decoration:none;
-  }
-  .footer__socials {
-    position: relative;
-    right: 46px;
-  }
-  .footer__social p {
-      font-size: 1rem;
-  }
-  .footer__social img {
-      width: 32px;
-      height: 32px;
-  }
-  /*  Small device */
-  @media screen and (max-width:767.98px) {
-    
-    
-    
-    
+    }
+    .footer__link { 
+      padding:0 10px;
+      list-style:none;
+    }
+    .footer__link > a { 
+      color:var(--footer-color);
+      text-decoration:none;
+    }
+    .footer__socials {
+      position: relative;
+      right: 46px;
+    }
+    .footer__social p {
+        font-size: 1rem;
+    }
+    .footer__social img {
+        width: 32px;
+        height: 32px;
+    }
   }
   
-  /*  Medium device - Bonus */
-  @media screen and (min-width:768px) {
-    
+  /*  Medium device */
+  @media screen and (min-width:880px) {
+    .footer__links { 
+      display:flex;  
+      position: relative;
+      left: 140px;
+      }
+      .footer__link { 
+        padding:0 10px;
+        list-style:none;
+      }
+      .footer__link > a { 
+        color:var(--footer-color);
+        text-decoration:none;
+      }
+      .footer__socials {
+        display: flex;
+        align-items: center;
+        position: relative;
+        right: 140px;
+      }
+      .footer__socials p {
+          font-size: 22px;
+          margin-right: 15px;
+      }
+      .footer__social img {
+          width: 42px;
+          height: 42px;
+      }
   }
   
+  @media screen and (min-width:998px) {
+    .footer__socials {
+      display: flex;
+      align-items: center;
+      position: relative;
+      right: 236px;
+    }
+  }
