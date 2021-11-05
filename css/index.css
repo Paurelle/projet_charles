@@ -17,6 +17,7 @@
         height: calc(100vh - 244px);
         overflow: hidden;
         background-color: #47555E;
+        min-height: 300px;
     }
     
     main .title {
@@ -46,6 +47,7 @@
         left: 50%;
         transform: translate(-50%);
         object-fit: cover;
+        min-height: 300px;
     }
 }
 /*  Medium device  */
