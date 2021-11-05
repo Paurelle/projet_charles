@@ -7,13 +7,13 @@
         <link rel="stylesheet" href="../../css/header.css">
         <link rel="stylesheet" href="css/tarif.css">
         <link rel="stylesheet" href="../../css/footer.css">
-        <title>Accueil</title>
+        <title>Tarifs et prestations</title>
     </head>
     <body>
         <header>
             <nav class="navbar color-header" role="navigation">
                 <div class="navbar__logo">
-                    <img src="../../img/logo.PNG" alt="">
+                    <a href="../../index.php"><img src="../../img/logo.PNG" alt="logo de charles"></a>
                 </div>    
                 <ul class="navbar__links">
                     <li class="navbar__link first"><a href="../../index.php">Accueil</a></li>

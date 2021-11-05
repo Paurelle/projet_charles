@@ -13,7 +13,7 @@
         <header>
             <nav class="navbar color-header" role="navigation">
                 <div class="navbar__logo">
-                    <img src="img/logo.PNG" alt="">
+                    <a href="index.php"><img src="img/logo.PNG" alt="logo de charles"></a>
                 </div>    
                 <ul class="navbar__links">
                     <li class="navbar__link first"><a href="index.php">Accueil</a></li>
@@ -32,7 +32,7 @@
                 <h1>Charles Cantin</h1>
                 <h2>- Photographe</h2>
             </div>
-            <img src="img/father.jpg" alt="">
+            <img src="img/father.jpg" alt="image d'un pere est de sont fils">
         </main>
 
         <footer>

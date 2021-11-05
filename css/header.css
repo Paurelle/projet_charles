@@ -86,6 +86,8 @@
       position:relative;
       left: 50%;
       transform: translate(-50%);
+      width: 138px;
+      height: 89px;
     }
     .navbar__logo img {
         width: 138px;
@@ -177,10 +179,15 @@
         margin-right: 7px;
       }
 
-      .navbar__logo img {
+      .navbar__logo a{
         width: 183px;
         height: 108px;
         margin-left: 100px;
+      }
+      .navbar__logo img {
+        width: 183px;
+        height: 108px;
+       
     }
   }
   

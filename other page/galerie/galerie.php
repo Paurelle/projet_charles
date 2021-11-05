@@ -7,13 +7,13 @@
         <link rel="stylesheet" href="../../css/header.css">
         <link rel="stylesheet" href="css/galerie.css">
         <link rel="stylesheet" href="../../css/footer.css">
-        <title>Accueil</title>
+        <title>Galerie</title>
     </head>
     <body>
         <header>
             <nav class="navbar color-header" role="navigation">
                 <div class="navbar__logo">
-                    <img src="../../img/logo.PNG" alt="">
+                    <a href="../../index.php"><img src="../../img/logo.PNG" alt="logo de charles"></a>
                 </div>    
                 <ul class="navbar__links">
                     <li class="navbar__link first"><a href="../../index.php">Accueil</a></li>
@@ -42,29 +42,29 @@
                     <li class="list" data-filter="couple">Couple</li>
                 </ul>
                 <div class="product">
-                    <div class="itemBox" data-item="mariage"><img src="img/mariage/mariage1.jpg" alt=""></div>
-                    <div class="itemBox" data-item="mariage"><img src="img/mariage/mariage2.jpg" alt=""></div>
+                    <div class="itemBox" data-item="mariage"><img src="img/mariage/mariage1.jpg" alt="image de mariage"></div>
+                    <div class="itemBox" data-item="mariage"><img src="img/mariage/mariage2.jpg" alt="image de mariage"></div>
 
-                    <div class="itemBox" data-item="grossesse"><img src="img/grossesse/grossesse1.jpg" alt=""></div>
-                    <div class="itemBox" data-item="grossesse"><img src="img/grossesse/grossesse2.jpg" alt=""></div>
-                    <div class="itemBox" data-item="grossesse"><img src="img/grossesse/grossesse3.jpg" alt=""></div>
-                    <div class="itemBox" data-item="grossesse"><img src="img/grossesse/grossesse4.jpg" alt=""></div>
+                    <div class="itemBox" data-item="grossesse"><img src="img/grossesse/grossesse1.jpg" alt="image de grossesse"></div>
+                    <div class="itemBox" data-item="grossesse"><img src="img/grossesse/grossesse2.jpg" alt="image de grossesse"></div>
+                    <div class="itemBox" data-item="grossesse"><img src="img/grossesse/grossesse3.jpg" alt="image de grossesse"></div>
+                    <div class="itemBox" data-item="grossesse"><img src="img/grossesse/grossesse4.jpg" alt="image de grossesse"></div>
 
-                    <div class="itemBox" data-item="bebe"><img src="img/bebe/bebe1.jpg" alt=""></div>
-                    <div class="itemBox" data-item="bebe"><img src="img/bebe/bebe2.jpg" alt=""></div>
-                    <div class="itemBox" data-item="bebe"><img src="img/bebe/bebe3.jpg" alt=""></div>
+                    <div class="itemBox" data-item="bebe"><img src="img/bebe/bebe1.jpg" alt="image de bébé"></div>
+                    <div class="itemBox" data-item="bebe"><img src="img/bebe/bebe2.jpg" alt="image de bébé"></div>
+                    <div class="itemBox" data-item="bebe"><img src="img/bebe/bebe3.jpg" alt="image de bébé"></div>
 
-                    <div class="itemBox" data-item="famille"><img src="img/famille/famille1.jpg" alt=""></div>
-                    <div class="itemBox" data-item="famille"><img src="img/famille/famille2.jpg" alt=""></div>
-                    <div class="itemBox" data-item="famille"><img src="img/famille/famille3.jpg" alt=""></div>
-                    <div class="itemBox" data-item="famille"><img src="img/famille/famille4.jpg" alt=""></div>
+                    <div class="itemBox" data-item="famille"><img src="img/famille/famille1.jpg" alt="image de famille"></div>
+                    <div class="itemBox" data-item="famille"><img src="img/famille/famille2.jpg" alt="image de famille"></div>
+                    <div class="itemBox" data-item="famille"><img src="img/famille/famille3.jpg" alt="image de famille"></div>
+                    <div class="itemBox" data-item="famille"><img src="img/famille/famille4.jpg" alt="image de famille"></div>
 
-                    <div class="itemBox" data-item="bapteme"><img src="img/bapteme/bapteme1.jpg" alt=""></div>
-                    <div class="itemBox" data-item="bapteme"><img src="img/bapteme/bapteme2.jpg" alt=""></div>
+                    <div class="itemBox" data-item="bapteme"><img src="img/bapteme/bapteme1.jpg" alt="image de bapteme"></div>
+                    <div class="itemBox" data-item="bapteme"><img src="img/bapteme/bapteme2.jpg" alt="image de bapteme"></div>
 
-                    <div class="itemBox" data-item="couple"><img src="img/couple/couple1.jpg" alt=""></div>
-                    <div class="itemBox" data-item="couple"><img src="img/couple/couple2.jpg" alt=""></div>
-                    <div class="itemBox" data-item="couple"><img src="img/couple/couple3.jpg" alt=""></div>
+                    <div class="itemBox" data-item="couple"><img src="img/couple/couple1.jpg" alt="image de couple"></div>
+                    <div class="itemBox" data-item="couple"><img src="img/couple/couple2.jpg" alt="image de couple"></div>
+                    <div class="itemBox" data-item="couple"><img src="img/couple/couple3.jpg" alt="image de couple"></div>
                 </div>
             </section>
         </main>
