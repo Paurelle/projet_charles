@@ -29,7 +29,6 @@
     display:flex;  
     list-style:none;
     z-index: 100;
-    min-height: 350px;
   }
   .navbar__link { 
     padding:0 10px;
@@ -56,6 +55,7 @@
       background:var(--navbar-bg-color);     
       transform: translateX(110%);
       transition: all .5s ease-in-out;
+      min-height: 300px;
     }
     .show-nav .navbar__links { 
       width:100vw;    
