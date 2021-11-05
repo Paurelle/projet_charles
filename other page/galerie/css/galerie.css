@@ -14,7 +14,8 @@
     align-items: center;
     justify-content: center;
     width: 100%;
-    margin-top: 35px;
+    margin-top: 80px;
+    margin-bottom: 80px;
     color: #000;
     z-index: 10;
 }
@@ -27,7 +28,7 @@ h1 {
 section {
     padding: 20px;
     padding-top: 0;
-    width: 100%;
+    width: 1000px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -46,7 +47,7 @@ section ul li {
     background: #E0E0E0;
     padding: 8px 12px;
     margin: 5px;
-    font-size: 1rem;
+    font-size: 22px;
     letter-spacing: 1px;
     cursor: pointer;
 }
@@ -81,13 +82,14 @@ section ul li.active {
 
 
 /*  Medium device  */
-@media screen and (min-width:880px) {
-    section ul {
-        display: flex;
-        justify-content: left;
-        align-items: left;
-        flex-wrap: wrap;
-        margin-bottom: 20px;
+@media screen and (min-width:956px) {
+    main {
+        height: 100%;
+        margin-bottom: 41px;
     }
     
+    h1 {
+        font-size: 64px;
+        font-weight: 800;
+    }
 }
