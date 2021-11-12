@@ -91,7 +91,10 @@ main {
         border-radius: 4px;
         cursor: pointer;
     }
+<<<<<<< HEAD
 
+=======
+>>>>>>> b62c02171189e7b95b14a7b5858db564056f4a2f
     form button:hover {
         background: #E0E0E0;
         color: #000;
